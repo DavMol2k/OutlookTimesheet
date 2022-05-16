@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookTimesheet.Process", "OutlookTimesheet.Process\OutlookTimesheet.Process.csproj", "{AD70C753-D2C3-401C-AC74-308FD4CAB926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookTimesheet.Tests", "OutlookTimesheet.Tests\OutlookTimesheet.Tests.csproj", "{56562D29-8B54-407A-A5F8-64F8C4D46FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD70C753-D2C3-401C-AC74-308FD4CAB926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD70C753-D2C3-401C-AC74-308FD4CAB926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD70C753-D2C3-401C-AC74-308FD4CAB926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD70C753-D2C3-401C-AC74-308FD4CAB926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56562D29-8B54-407A-A5F8-64F8C4D46FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56562D29-8B54-407A-A5F8-64F8C4D46FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56562D29-8B54-407A-A5F8-64F8C4D46FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56562D29-8B54-407A-A5F8-64F8C4D46FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED1D75E-D1E1-40F9-9613-55818198942E}
+	EndGlobalSection
+EndGlobal
